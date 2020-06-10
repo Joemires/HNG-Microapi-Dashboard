@@ -110,7 +110,7 @@
                     </form>
                 </div>
                 <div class="row">
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -124,7 +124,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -138,7 +138,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -152,7 +152,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -166,7 +166,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -180,7 +180,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -194,7 +194,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -208,7 +208,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -222,7 +222,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -236,7 +236,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -250,7 +250,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -264,7 +264,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -278,7 +278,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -292,7 +292,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
@@ -306,7 +306,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
+                    <div class="col-sm-6 col-md-4 col-lg-3 mb-4">
                         <div class="card">
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
@@ -320,7 +320,7 @@
                                         <span>
                                             <ion-icon name="trending-up-outline"></ion-icon> 9.8
                                         </span>
-                                        <span>
+                                        <span class="d-md-none">
                                             <ion-icon name="time-outline"></ion-icon> 665ms
                                         </span>
                                         <span>
