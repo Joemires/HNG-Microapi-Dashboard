@@ -115,7 +115,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -143,7 +143,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -171,7 +171,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -199,7 +199,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -227,7 +227,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -255,7 +255,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -283,7 +283,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
@@ -311,7 +311,7 @@
                             <div class="card-body p-3">
                                 <div class="api-box align-middle">
                                     <img src="assets/img/520x400.png" class="img-fluid">
-                                    <h4> <a href="documentation.html"> Microapi Name </a> </h4>
+                                    <h4> <a href="documentation.php"> Microapi Name </a> </h4>
                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore placeat aut rem repudiandae. Quasi mollitia culpa obcaecati velit blanditiis odio, rem provident? Sint et neque, libero voluptas ex nulla dolorum. </p>
                                     <div class="block text-left">
                                         <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
