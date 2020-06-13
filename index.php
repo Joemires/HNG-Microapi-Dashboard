@@ -73,8 +73,8 @@
               <div class="card-body p-3">
                   <div class="api-box align-middle">
                       <img src="assets/img/520x400.png" class="img-fluid">
-                  <h4 class="">Microapi Service For<a href="">  <?= $sub?> </a>  </h4>
-                     <p>Service api for  <?= $value?>  , learn more about their endpoint <a href="<?= $valueyy?> "> here</a>  </p>
+                  <h4 class="">Microapi Service For<a href="https://<?= $value?>">  <?= $sub?> </a>  </h4>
+                     <p>Service api for  <?= $value?>  , learn more about their endpoint <a href="https://<?= $value?>">  here</a>  </p>
                      <br>   <br>   <br>
                       <div class="block text-left">
                           <span> <i>Verified</i> <i> <ion-icon name="checkmark-outline"></ion-icon> </i> </span>
